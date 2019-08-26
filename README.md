@@ -1,3 +1,6 @@
+Delopment link
+https://github.com/aamoesi/GifTastic.io
+
 # GifTastic
 
 ## Overview
